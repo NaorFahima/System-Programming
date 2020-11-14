@@ -1,2 +1,2 @@
-# Course-Introduction-to-System-Programming
-Homework in the Introduction to System Programming course
+# Introduction-to-System-Programming
+Introduction to System Programming course projects
